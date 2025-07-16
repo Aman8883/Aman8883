@@ -15,8 +15,8 @@ My Coding Philosophy
 "Simple is better than complex." - The Zen of Python
 
 I believe in writing clean, maintainable code that solves real problems efficiently.
-Current Projects
 
+Current Projects
 Exploring data science applications
 Working on automation tools
 Improving my Python skills daily
